@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27f8546c-e941-4102-a365-61fa5525164a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nuclojure/config.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/nuclojure/config.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nuclojure/controllers/user.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/nuclojure/controllers/user.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nuclojure/models/auth.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/nuclojure/models/auth.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nuclojure/models/movement.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/nuclojure/models/movement.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nuclojure/utils/db.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/nuclojure/utils/db.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/nuclojure/utils_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/nuclojure/utils_test.clj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Test Namespace" />
+        <option value="Class" />
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XLkvOhacai7xfS2KtSe2My0zuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToKeyword.includeLibraries" value="false" />
+    <property name="GoToNamespace.includeLibraries" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="cursive.last.file.extension./Users/gustavo.fonseca/IdeaProjects/nuclojure/src" value="clj" />
+    <property name="cursive.last.file.extension./Users/gustavo.fonseca/IdeaProjects/nuclojure/test" value="clj" />
+    <property name="cursive.last.file.extension.F\:/Projetos/clojure/nuclojure/src" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projetos\clojure\nuclojure\src\nuclojure\models" />
+      <recent name="F:\Projetos\clojure\nuclojure\src\nuclojure\models\movement" />
+      <recent name="$PROJECT_DIR$/src/nuclojure/utils" />
+      <recent name="$PROJECT_DIR$/src/nuclojure/controllers" />
+      <recent name="F:\Projetos\clojure\nuclojure\src\nuclojure\resources\movement" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1581341418376">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager" selected="Clojure Application.config-test">
+    <configuration name="REPL for nuclojure" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="nuclojure" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="All Tests" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="nuclojure" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="nuclojure" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="kaocha.runner" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="--focus nuclojure.utils-test" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nuclojure.handler-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="nuclojure" />
+      <setting name="path" value="$PROJECT_DIR$/test/nuclojure/handler_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/nuclojure" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.All Tests" />
+      <item itemvalue="Clojure Application.config-test" />
+      <item itemvalue="Clojure Application.nuclojure.handler-test" />
+      <item itemvalue="Clojure REPL.REPL for nuclojure" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.nuclojure.handler-test" />
+        <item itemvalue="Clojure REPL.REPL for nuclojure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27f8546c-e941-4102-a365-61fa5525164a" name="Default Changelist" comment="" />
+      <created>1580832991711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580832991711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Intentions" timestamp="1581619163579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1581619163579" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581684595974">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1581684595974" />
+    <state x="570" y="332" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581678901335">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="570" y="332" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.805@0.23.1440.805" timestamp="1581678901335" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1581685369020">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1581685369020" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1581685369018">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1581685369018" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1581685369017">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1581685369017" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1581685369019">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1581685369019" />
+    <state x="389" y="100" key="SettingsEditor" timestamp="1581683380743">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="519" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581619488253" />
+    <state x="389" y="100" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1581683380743" />
+    <state x="399" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1581504472733">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="399" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1581504472733" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581444362153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581444362153" />
+    <state x="386" y="61" width="667" height="729" key="find.popup" timestamp="1581937624636">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="386" y="61" width="667" height="729" key="find.popup/0.23.1440.805@0.23.1440.805" timestamp="1581937624636" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1581601172035">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.805@0.23.1440.805" timestamp="1581601172035" />
+    <state x="342" y="245" key="new project wizard" timestamp="1581279813315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="245" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581279813315" />
+    <state x="458" y="197" width="764" height="525" key="search.everywhere.popup" timestamp="1582203871244">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="611" y="225" width="696" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580944534176" />
+    <state x="458" y="197" width="764" height="525" key="search.everywhere.popup/0.23.1440.805@0.23.1440.805" timestamp="1582203871244" />
+  </component>
+</project>
