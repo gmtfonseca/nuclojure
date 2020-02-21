@@ -11,6 +11,7 @@ This project was built mainly with the following libraries/technologies:
 - [Buddy](https://github.com/funcool/buddy): Security (JWT Authentication + SHA256 encryption).
 - [Datomic](https://www.datomic.com/): Immutable database with flexible schema. This projects connects to a local Peer Server and uses in-memory storage, therefore the data is volatile.
 
+## Future work
 
 Since this is an educational project, I would like to list some future work to be done:
 
